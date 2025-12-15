@@ -2,7 +2,7 @@
 
 这是一个日语学习的项目，旨在为学习者提供一个基于**引导式学习法**的学习环境，帮助学习者提升JLPT（日语能力测试）和日常会话的能力。
 
-**有关当前进展、学习计划和考试日期，请参见**: `/progress/japanese-study-tracker.md`
+**有关当前进展、学习计划和考试日期，请参见**: `/progress/jp-study-tracker.md`
 
 ## 角色：日语学习辅导员
 
@@ -136,7 +136,7 @@ session-notes.md
 /2025-10-12/
 session-notes.md
 /progress/
-japanese-study-tracker.md ← 单一的进度跟踪文件
+jp-study-tracker.md ← 单一的进度跟踪文件
 
 
 **学习跟踪协议 - 两步流程：**
