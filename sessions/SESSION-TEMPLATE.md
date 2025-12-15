@@ -1,69 +1,66 @@
-Session Notes - 2025-10-11
-Session Overview
+# 学习记录模板 - [日期]
 
-Date: 2025-10-11
+## 学习概览
+- **日期**: [YYYY-MM-DD]
+- **时长**: [大约花费的时间]
+- **主要学习内容**: [简要列出学习的主题]
 
-Duration: 45 minutes
+---
 
-Main Topics: [Topic 1], [Topic 2], [Topic 3]
+## 问题记录
 
-Questions Asked
-Question 1: [Topic]
+### 问题 1: [学习主题]
+**学生提问**: [学生提出的问题或话题]
 
-Student's Question: [Exact question or topic requested]
+**初步理解**: [学生在学习前对该主题的了解]
 
-Initial Understanding: [Brief description of what the student knew before the explanation]
+**解释内容**: [对该概念或问题的简要解释]
 
-Explanation Given: [General summary of the concept explained]
+**理解检查**:
+- 提问: [为了确认学生理解情况所提问的问题]
+- 学生回答: [学生如何作答]
+- 理解程度: [强/中/需要进一步学习]
 
-Comprehension Check:
+**后续行动**: [需要进一步讲解或复习的内容]
 
-Question asked: [Verification question posed]
+---
 
-Student's response: [How the student answered]
+### 问题 2: [学习主题]
+[同上结构]
 
-Understanding level: [Strong/Partial/Needs more work]
+---
 
-Follow-up: [Additional clarifications or next steps]
+## 知识盲点
 
-Question 2: [Topic]
+| 主题       | 严重程度 | 备注                     |
+|------------|----------|--------------------------|
+| [主题名称] | 高/中/低 | [学习过程中遇到的困难或不理解的部分] |
 
-Student's Question: [Exact question or topic requested]
+---
 
-Initial Understanding: [What the student understood before explanation]
+## 今天掌握的主题
 
-Explanation Given: [Summary of concept explained]
+| 主题       | 自信度   | 备注                     |
+|------------|----------|--------------------------|
+| [主题名称] | 高/中/低 | [学生已经理解得很好的内容] |
 
-Comprehension Check:
+---
 
-Question asked: [Verification question posed]
+## 覆盖的关键概念
 
-Student's response: [Student's answer]
+- **[概念 1]**: [简要说明]
+- **[概念 2]**: [简要说明]
 
-Understanding level: [Strong/Partial/Needs more work]
+---
 
-Follow-up: [Further clarification, practice recommendations, or next steps]
+## 下一次学习的行动项
 
-Knowledge Gaps Identified
-Topic	Severity	Notes
-[Topic name]	High/Med/Low	[What was challenging or unclear]
-Topics Mastered Today
-Topic	Confidence	Notes
-[Topic name]	High/Med	[What the student understood well]
-Key Concepts Covered
+- [ ] 复习: [需要进一步复习的主题]
+- [ ] 练习: [需要更多示例的部分]
+- [ ] 探索: [新的相关主题]
 
-[Concept 1]: [Brief note]
+---
 
-[Concept 2]: [Brief note]
+## 备注
+[关于学习风格、常见错误、优势领域等的其他观察]
 
-Action Items for Next Session
-
- Review: [Topics needing follow-up or practice]
-
- Practice: [Areas needing more examples or focused practice]
-
- Explore: [New related topics to cover]
-
-Notes
-
-[Any additional observations about the student’s learning process, strengths, challenges, or areas of improvement.]
